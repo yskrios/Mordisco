@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Spaghetti Carbonara",
+    "image": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "ingredients": ["Spaghetti", "Eggs", "Parmesan Cheese", "Bacon"],
+    "instructions": "Boil pasta. Fry bacon. Mix with eggs and cheese.",
+    "category": "Lunch"
+  },
+  {
+    "id": "2",
+    "name": "Pancakes",
+    "image": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+    "ingredients": ["Flour", "Milk", "Eggs", "Baking Powder"],
+    "instructions": "Mix all ingredients and cook on a skillet.",
+    "category": "Breakfast"
+  }
+]
